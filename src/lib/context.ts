@@ -74,5 +74,5 @@ export const SUGGESTED_QUESTIONS: string[] = [
   "¿Qué hace Sherlock y quién lo construyó?",
   "¿Qué experiencia tiene con Claude vs ChatGPT?",
   "¿Qué papel tiene en el Estándar CONOCER?",
-  "¿Qué nivel de inglés tiene y dónde estudió?",
+  "¿Qué nivel de estudios tiene Iván?",
 ];
