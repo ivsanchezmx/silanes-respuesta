@@ -518,7 +518,15 @@
   }
   .navList {
     flex-direction: row;
+    /* min-width: 0 fuerza a que el navList respete el ancho del padre.
+       Sin esto, como los items tienen flex-shrink: 0, el min-width: auto
+       del navList = suma de items (~700px), el navList se expande y su
+       overflow-x: auto nunca se dispara — overflowea .panel y el panel
+       clipea sin scroll. */
+    min-width: 0;
     overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
     gap: 0.3rem;
     padding: 0.25rem 0 0.5rem;
     scrollbar-width: none;
