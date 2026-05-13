@@ -202,9 +202,9 @@
 
 /* Mobile / tablet */
 @media (max-width: 900px) {
-  body {
-    overflow: auto;
-  }
+  /* `body { overflow: auto }` vive en global.css — moverlo aquí no funciona
+     porque Vite inyecta App.module.css antes que global.css y el cascade
+     deja ganar el `overflow: hidden` base. */
   .app {
     height: auto;
     min-height: 100vh;

@@ -24,8 +24,19 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-feature-settings: "cv11", "ss01";
-  overflow: hidden; /* el shell controla scroll por panel */
+  overflow: hidden; /* en desktop el shell controla scroll por panel */
   min-height: 100vh;
+}
+
+/* En mobile, el body vuelve a ser el scroller del documento.
+   Esta regla VIVE en global.css (no en App.module.css) para que el
+   cascade sea source-order seguro: independientemente de en qué orden
+   Vite inyecte los <style> tags, la regla mobile siempre viene después
+   de la regla base dentro del mismo archivo. */
+@media (max-width: 900px) {
+  body {
+    overflow: auto;
+  }
 }
 
 #root {
