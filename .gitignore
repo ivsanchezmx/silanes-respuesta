@@ -42,3 +42,6 @@ src/lib/docs.generated.ts
 
 # Large media (GitHub rejects files >100MB) — kept locally, served via Drive in production
 public/media/
+
+# TypeScript build info cache
+*.tsbuildinfo
