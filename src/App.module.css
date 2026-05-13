@@ -210,6 +210,11 @@
     min-height: 100vh;
   }
   .shell {
+    /* En desktop el shell es `flex: 1` para llenar 100vh y dejar que .content
+       scrollee internamente. En mobile el body es el scroller; si dejamos
+       `flex: 1` el shell se fija a `100vh - topbar` y sus hijos overflowean
+       sin empujar el alto del documento → no se puede hacer scroll down. */
+    flex: initial;
     grid-template-columns: 1fr;
   }
   .content {
