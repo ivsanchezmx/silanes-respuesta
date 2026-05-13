@@ -1,5 +1,4 @@
 import { useEffect, useRef, useState, type ComponentType } from "react";
-import { AnimatePresence, motion } from "framer-motion";
 import { Topbar } from "./components/Topbar";
 import { IdentityPanel } from "./components/IdentityPanel";
 import { AmbientOrb } from "./components/AmbientOrb";
@@ -86,18 +85,9 @@ export default function App() {
             <h1 className={`display-title ${styles.contentTitle}`}>{meta.title}</h1>
             <p className={styles.contentSubtitle}>{meta.subtitle}</p>
           </header>
-          <AnimatePresence mode="wait" initial={false}>
-            <motion.div
-              key={active}
-              initial={{ opacity: 0, y: 8 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-              transition={{ duration: 0.22, ease: [0.2, 0.8, 0.2, 1] }}
-              className={styles.contentBody}
-            >
-              <ActiveSection />
-            </motion.div>
-          </AnimatePresence>
+          <div key={active} className={styles.contentBody}>
+            <ActiveSection />
+          </div>
           <footer className={`${styles.contentFoot} no-print`} aria-label="Navegación entre secciones">
             <NavPager active={active} onSelect={setActive} />
           </footer>

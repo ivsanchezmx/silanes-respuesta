@@ -107,6 +107,24 @@
 .contentBody {
   max-width: var(--max-content);
   flex: 1 0 auto;
+  animation: contentFadeIn 0.24s var(--ease-out);
+}
+
+@keyframes contentFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .contentBody {
+    animation: none;
+  }
 }
 
 .contentFoot {
