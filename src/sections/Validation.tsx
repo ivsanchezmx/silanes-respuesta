@@ -29,17 +29,6 @@ const ITEMS: Item[] = [
     a: "No",
     detail: "No he formado parte de Laboratorios Silanes con anterioridad.",
   },
-  {
-    q: "Ingreso mensual bruto actual",
-    a: "$85,000 MXN",
-    detail: "Ingreso bruto vigente.",
-  },
-  {
-    q: "Expectativa de ingreso mensual bruto en caso de cambio",
-    a: "$85,000 MXN · a tratar",
-    highlight: "a tratar",
-    detail: "Abierto a conversación según paquete integral y alcance del rol.",
-  },
 ];
 
 export function Validation() {

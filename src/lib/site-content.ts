@@ -15,17 +15,31 @@ Meta:
 - Sede: Paseo de las Palmas, CDMX
 - Modalidad: Híbrida 3 oficina + 2 home office
 
-Cuerpo de la carta (dirigida a Andrea Palafox, Atracción de Talento de Laboratorios Silanes):
+Cuerpo de la carta (mensaje de bienvenida + presentación, no dirigido a una persona específica — funciona para cualquier lector: Andrea, el líder de la posición, u otros):
 
-Andrea, gracias por avanzar mi candidatura y por la claridad del proceso. Recibí tu correo esta mañana y preferí responder en este formato —que te permite leer la información de forma estructurada y compartirla con el líder de la posición sin perder contexto— en lugar de devolverlo como respuesta plana al hilo.
+Bienvenido y gracias por dedicar tiempo a revisar mi perfil. Preparé esta pieza estructurada para que puedas hojearla en 90 segundos o leerla a fondo en diez minutos —según tu necesidad— y compartirla sin perder contexto.
 
-A lo largo de esta pieza encontrarás las seis validaciones indispensables, mis respuestas a las tres preguntas de experiencia profesional, y un bloque de evidencia con enlaces a Custom GPTs, plataformas y agentes que he construido directamente y que hoy operan con usuarios reales. Si tienes prisa, §02 Indispensables y §04 Evidencia cubren el filtro estricto; §05 Encaje contextualiza por qué este rol embona con el trabajo que ya hago.
+Soy Iván Sánchez Martínez, consultor en estrategia de IA e innovación con más de ocho años diseñando programas de habilitación corporativa. Actualmente lidero el desarrollo del primer Estándar Nacional de Competencia en IA para MiPyMES en México (FUNDES + Google.org ante CONOCER) y acompaño a organizaciones desde Innogyzer en diagnóstico, definición de casos de uso y diseño de procesos asistidos por IA.
 
-Cualquier punto puede ampliarse en entrevista o en una demo en vivo de las plataformas propias.
+En las siguientes secciones está mi respuesta al filtro de Atracción de Talento de Laboratorios Silanes: validación de indispensables, las tres preguntas de experiencia, evidencia con enlaces vivos y el encaje narrativo con la posición. Si tienes prisa, §02 Indispensables y §04 Evidencia cubren el filtro estricto; §05 Encaje contextualiza por qué este rol embona con el trabajo que ya hago; y en §07 Asistente hay un modelo IA que puede ampliar cualquier punto en vivo.
 
 Firma: Iván Sánchez Martínez.
 
 Tags de credibilidad mostrados al pie de la carta: 8+ años en innovación · FUNDES · Google.org · Custom GPTs públicos · Plataformas propias · CONOCER · Estándar IA.
+
+Timeline compacto debajo del cuerpo de la carta:
+
+EXPERIENCIA:
+- 2026 → · Sr. Consultant in AI · FUNDES · Estándar CONOCER de IA.
+- 2025 → · Sr. AI & Innovation Manager · Innogyzer.
+- 2022–2024 · Experimentation & Innovation Manager · Grupo Rotoplas.
+- 2019–2022 · Innovation Analyst → Coordinator · Grupo Rotoplas.
+
+EDUCACIÓN:
+- 2023–2026 · Doctorado en Alta Dirección · UVP · en curso.
+- 2018–2019 · MSc. New Tech in Computer Science · Univ. de Murcia · Beca Fundación Carolina.
+- 2016–2018 · MSc. Economics & Innovation Policy · UAM · Beca CONACYT, honores.
+- 2010–2015 · B.Eng. Computer Engineering · UA Tlaxcala · honores.
 
 
 # §02 · VALIDACIÓN DE INDISPENSABLES (las 6 respuestas exactas)
@@ -150,7 +164,8 @@ Video de presentación:
 - Si te preguntan dónde ver el video, responde: "Está embebido en §06 Contacto · Siguiente paso vía YouTube, con un botón para abrirlo en Drive como alternativa."
 
 Datos directos (también visibles en la sidebar):
-- Correo: ivsanchezmx@gmail.com
+- Correo (principal): ivsanchezmx@gmail.com
+- Correo alterno: computoisz@gmail.com
 - Teléfono: +52 246 127 1067
 - LinkedIn: linkedin.com/in/ivsanchezm
 - Residencia: Tlaxcala, MX (con disposición a CDMX)

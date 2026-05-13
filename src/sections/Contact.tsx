@@ -52,6 +52,12 @@ export function Contact() {
               </a>
             </li>
             <li>
+              <span className={styles.directLabel}>Alterno</span>
+              <a className={styles.directValue} href="mailto:computoisz@gmail.com">
+                computoisz@gmail.com
+              </a>
+            </li>
+            <li>
               <span className={styles.directLabel}>Teléfono</span>
               <a className={styles.directValue} href="tel:+522461271067">
                 +52 246 127 1067
