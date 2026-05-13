@@ -21,7 +21,7 @@ export const SECTIONS: SectionMeta[] = [
     num: "§01",
     label: "Bienvenida",
     title: "Bienvenida",
-    subtitle: "Gracias por revisar mi perfil — así está organizada esta pieza",
+    subtitle: "Gracias por revisar mi perfil",
   },
   {
     id: "validation",
