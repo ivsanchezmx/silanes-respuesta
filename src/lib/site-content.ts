@@ -6,7 +6,7 @@
  */
 
 export const SITE_CONTEXT: string = `
-# §01 · CARTA DE RESPUESTA
+# §01 · BIENVENIDA
 
 Meta:
 - Fecha: 12 mayo 2026
