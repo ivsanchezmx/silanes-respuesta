@@ -10,7 +10,6 @@ export const SITE_CONTEXT: string = `
 
 Meta:
 - Fecha: 12 mayo 2026
-- Fecha límite: 13 mayo 2026 (cumplida)
 - Posición: Gerente de Habilitación IA
 - Sede: Paseo de las Palmas, CDMX
 - Modalidad: Híbrida 3 oficina + 2 home office

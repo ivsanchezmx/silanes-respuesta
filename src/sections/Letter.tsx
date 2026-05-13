@@ -2,7 +2,6 @@ import styles from "./Letter.module.css";
 
 const META = [
   { label: "Fecha", value: "12 mayo 2026" },
-  { label: "Fecha límite", value: "13 mayo 2026 · cumplida" },
   { label: "Posición", value: "Gerente de Habilitación IA" },
   { label: "Sede", value: "Paseo de las Palmas · CDMX" },
   { label: "Modalidad", value: "Híbrida · 3+2" },
