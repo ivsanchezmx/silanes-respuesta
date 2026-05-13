@@ -1,0 +1,28 @@
+{
+  "name": "silanes-respuesta",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Respuesta de Iván Sánchez Martínez al filtro de Laboratorios Silanes · Gerente de Habilitación IA",
+  "scripts": {
+    "extract-docs": "node scripts/extract-docs.mjs",
+    "predev": "node scripts/extract-docs.mjs",
+    "prebuild": "node scripts/extract-docs.mjs",
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^11.11.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "pdf-parse": "^2.4.5",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}

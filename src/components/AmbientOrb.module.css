@@ -1,0 +1,48 @@
+.host {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.orb {
+  position: absolute;
+  top: 5%;
+  left: 30%;
+  width: 720px;
+  height: 720px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at center,
+    rgba(96, 165, 250, 0.22) 0%,
+    rgba(96, 165, 250, 0.08) 35%,
+    transparent 70%
+  );
+  filter: blur(80px);
+  will-change: transform;
+}
+
+.orbAlt {
+  top: 50%;
+  left: 60%;
+  width: 540px;
+  height: 540px;
+  background: radial-gradient(
+    circle at center,
+    rgba(167, 139, 250, 0.16) 0%,
+    rgba(96, 165, 250, 0.06) 40%,
+    transparent 75%
+  );
+}
+
+@media (max-width: 720px) {
+  .orb {
+    width: 420px;
+    height: 420px;
+  }
+  .orbAlt {
+    width: 320px;
+    height: 320px;
+  }
+}

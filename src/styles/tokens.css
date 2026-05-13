@@ -1,0 +1,67 @@
+:root {
+  /* ── Base — tech-dark navy / charcoal ─────────────────── */
+  --bg: #08090f;            /* body, deepest */
+  --bg-elev: #0d1019;       /* topbar, content area */
+  --surface: #11151f;       /* sidebar, cards */
+  --surface-2: #181d2b;     /* hover state, nested panels */
+  --surface-3: #1f2638;     /* active highlight */
+
+  /* ── Borders & rules — barely visible, build depth ────── */
+  --border: #1a1f2e;
+  --border-2: #232a3d;
+  --border-active: rgba(96, 165, 250, 0.6);
+
+  /* ── Text ──────────────────────────────────────────────── */
+  --text: #e8ecf7;          /* primary */
+  --text-2: #b0b8ce;        /* secondary */
+  --text-3: #6b7693;        /* tertiary, captions */
+  --text-4: #4a5269;        /* faded, footnotes */
+
+  /* ── Accent — sky blue, the only saturated color ───────── */
+  --accent: #60a5fa;        /* primary accent */
+  --accent-bright: #93c5fd; /* highlight on dark */
+  --accent-deep: #2563eb;
+  --accent-glow: rgba(96, 165, 250, 0.35);
+  --accent-glow-soft: rgba(96, 165, 250, 0.12);
+  --accent-glow-faint: rgba(96, 165, 250, 0.05);
+
+  /* ── Status / live ─────────────────────────────────────── */
+  --live: #22c55e;
+  --live-glow: rgba(34, 197, 94, 0.45);
+
+  /* ── Fonts ─────────────────────────────────────────────── */
+  --sans: "Geist", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --mono: "Geist Mono", "JetBrains Mono", "SF Mono", "Menlo", monospace;
+  --serif: "Instrument Serif", "Times New Roman", serif;
+
+  /* ── Geometry ──────────────────────────────────────────── */
+  --radius-sm: 4px;
+  --radius: 8px;
+  --radius-lg: 14px;
+
+  /* ── Shadows + glows ───────────────────────────────────── */
+  --shadow-card: 0 1px 0 rgba(255, 255, 255, 0.04) inset,
+    0 1px 2px rgba(0, 0, 0, 0.3),
+    0 8px 24px rgba(0, 0, 0, 0.18);
+  --shadow-elev: 0 1px 0 rgba(255, 255, 255, 0.05) inset,
+    0 8px 30px rgba(0, 0, 0, 0.4),
+    0 16px 48px rgba(0, 0, 0, 0.25);
+  --shadow-glow: 0 0 0 1px rgba(96, 165, 250, 0.4),
+    0 8px 32px rgba(96, 165, 250, 0.12),
+    0 1px 0 rgba(255, 255, 255, 0.04) inset;
+  --shadow-glow-strong: 0 0 0 1px rgba(96, 165, 250, 0.7),
+    0 0 28px rgba(96, 165, 250, 0.22),
+    0 0 64px rgba(96, 165, 250, 0.1);
+
+  /* ── Easing + duration ─────────────────────────────────── */
+  --ease-out: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --t-fast: 160ms;
+  --t-base: 280ms;
+  --t-slow: 520ms;
+
+  /* ── Layout ────────────────────────────────────────────── */
+  --sidebar-w: 340px;
+  --topbar-h: 56px;
+  --max-content: 760px;
+}

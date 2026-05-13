@@ -1,0 +1,141 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+  border-radius: var(--radius) var(--radius) 0 0;
+  border: 1px solid var(--border);
+  border-bottom: 1px solid var(--border-2);
+  padding: 0.3rem;
+  gap: 2px;
+}
+
+.tab {
+  position: relative;
+  flex: 1;
+  padding: 0.7rem 1rem;
+  background: transparent;
+  border: 0;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  color: var(--text-3);
+  border-radius: var(--radius-sm);
+  transition: color var(--t-fast) var(--ease-out),
+    background var(--t-fast) var(--ease-out);
+  overflow: hidden;
+}
+
+.tab:hover {
+  color: var(--text);
+  background: var(--surface-2);
+}
+
+.tabActive {
+  color: var(--text);
+  background: var(--surface-2);
+}
+
+.tabNum {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.tab:not(.tabActive) .tabNum {
+  color: var(--text-4);
+}
+
+.tabHint {
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: inherit;
+  letter-spacing: -0.01em;
+}
+
+.tabUnderline {
+  position: absolute;
+  left: 0.3rem;
+  right: 0.3rem;
+  bottom: 0;
+  height: 2px;
+  background: var(--accent);
+  border-radius: 1px;
+  box-shadow: 0 0 8px var(--accent-glow);
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+  padding-top: 0.5rem;
+}
+
+.question {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: clamp(1.1rem, 1.5vw, 1.35rem);
+  line-height: 1.35;
+  color: var(--text);
+  letter-spacing: -0.022em;
+  max-width: 60ch;
+  padding: 0.6rem 0.85rem 0.6rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 2px solid var(--accent);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
+.answer {
+  /* hereda body-prose global */
+}
+
+.pullquote {
+  position: relative;
+  padding: 0.85rem 1.1rem 0.85rem 1.2rem;
+  margin: 1.1rem 0;
+  background: rgba(96, 165, 250, 0.05);
+  border: 1px solid rgba(96, 165, 250, 0.18);
+  border-left: 2px solid var(--accent);
+  border-radius: var(--radius-sm);
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.08rem;
+  line-height: 1.55;
+  color: var(--text);
+  letter-spacing: -0.005em;
+  box-shadow: 0 0 0 1px rgba(96, 165, 250, 0.05),
+    0 4px 14px rgba(96, 165, 250, 0.06);
+}
+
+@media (max-width: 720px) {
+  .tabs {
+    flex-direction: column;
+    gap: 0.4rem;
+    padding: 0.4rem;
+  }
+  .tab {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.7rem;
+  }
+  .tabUnderline {
+    display: none;
+  }
+  .tabActive {
+    border-left: 2px solid var(--accent);
+  }
+}
