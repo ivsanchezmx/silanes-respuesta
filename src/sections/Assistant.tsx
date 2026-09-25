@@ -9,7 +9,7 @@ export function Assistant() {
           <strong className={styles.ledeAccent}>
             Pregúntale sobre experiencia,
           </strong>{" "}
-          proyectos, indispensables del filtro, evidencia, salario, mudanza o
+          proyectos, datos clave, evidencia, disponibilidad o
           lo que necesites.
         </p>
         <div className={styles.metaRow}>

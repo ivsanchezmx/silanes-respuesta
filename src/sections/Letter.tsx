@@ -1,10 +1,10 @@
 import styles from "./Letter.module.css";
 
 const META = [
-  { label: "Fecha", value: "12 mayo 2026" },
-  { label: "Posición", value: "Gerente de Habilitación IA" },
-  { label: "Sede", value: "Paseo de las Palmas · CDMX" },
-  { label: "Modalidad", value: "Híbrida · 3+2" },
+  { label: "Perfil", value: "Estrategia y habilitación en IA" },
+  { label: "Base", value: "Tlaxcala · MX" },
+  { label: "Movilidad", value: "Disposición a cambio de residencia" },
+  { label: "Actualizado", value: "2026" },
 ];
 
 const TAGS = [
@@ -125,13 +125,13 @@ export function Letter() {
           definición de casos de uso y diseño de procesos asistidos por IA.
         </p>
         <p>
-          En las siguientes secciones está mi respuesta al filtro de Atracción
-          de Talento de Laboratorios Silanes: validación de indispensables,
-          las tres preguntas de experiencia, evidencia con enlaces vivos y el
-          encaje narrativo con la posición. Si tienes prisa,{" "}
-          <strong>§02 Indispensables</strong> y <strong>§04 Evidencia</strong>{" "}
-          cubren el filtro estricto; <strong>§05 Encaje</strong> contextualiza
-          por qué este rol embona con el trabajo que ya hago; y en{" "}
+          En las siguientes secciones encontrarás mis datos clave, respuestas
+          a tres preguntas frecuentes sobre mi experiencia, evidencia con
+          enlaces vivos y lo que puedo aportar a tu organización. Si tienes
+          prisa, <strong>§02 Datos clave</strong> y{" "}
+          <strong>§04 Evidencia</strong> cubren lo esencial;{" "}
+          <strong>§05 Aporte</strong> explica cómo mi trabajo actual se traduce
+          en habilitación de IA para tu equipo; y en{" "}
           <strong>§07 Asistente</strong> hay un modelo IA que puede ampliar
           cualquier punto en vivo.
         </p>

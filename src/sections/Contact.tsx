@@ -11,13 +11,13 @@ export function Contact() {
         <div className={styles.videoCard}>
           <div className="eyebrow">Video de presentación</div>
           <h3 className={styles.videoTitle}>
-            2 minutos de presentación para <em>esta vacante</em>.
+            2 minutos de <em>presentación</em>.
           </h3>
 
           <figure className={styles.videoPlayer}>
             <iframe
               src={VIDEO_YT_EMBED}
-              title="Iván Sánchez · respuesta a Silanes"
+              title="Iván Sánchez · video de presentación"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerPolicy="strict-origin-when-cross-origin"
               allowFullScreen
@@ -25,7 +25,7 @@ export function Contact() {
             />
             <figcaption className={styles.videoCaption}>
               <span className={styles.videoCaptionDot} aria-hidden />
-              Iván Sánchez · respuesta a Silanes · mayo 2026
+              Iván Sánchez · video de presentación · 2026
             </figcaption>
           </figure>
 
@@ -95,7 +95,7 @@ export function Contact() {
         <div className={styles.buttons}>
           <a
             className={`${styles.btn} ${styles.btnPrimary}`}
-            href="/docs/Ivan_Sanchez_CV_2026_v2.pdf"
+            href="/docs/Ivan_Sanchez_CV_2026_JUN.pdf"
             download
           >
             Descargar CV (PDF) <span className={styles.btnArrow}>↓</span>

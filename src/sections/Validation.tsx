@@ -14,20 +14,20 @@ const ITEMS: Item[] = [
     detail: "Estado de Tlaxcala, México",
   },
   {
-    q: "Modalidad híbrida · 3 oficina + 2 home office · Paseo de las Palmas",
-    a: "De acuerdo",
-    highlight: "De acuerdo",
-    detail: "Conforme con la modalidad y presencialidad indicada.",
+    q: "Modalidad de trabajo",
+    a: "Abierto a esquemas híbridos",
+    highlight: "híbridos",
+    detail: "Con presencialidad en oficina según lo requiera la posición.",
   },
   {
-    q: "¿Necesitarías realizar un cambio de residencia?",
+    q: "¿Disposición a cambio de residencia?",
     a: "Sí, con disposición a realizarlo",
-    detail: "Cambio a CDMX previsto al confirmarse el ingreso.",
+    detail: "Por ejemplo, a CDMX al confirmarse el ingreso.",
   },
   {
-    q: "¿Eres o has sido parte de Laboratorios Silanes?",
-    a: "No",
-    detail: "No he formado parte de Laboratorios Silanes con anterioridad.",
+    q: "Condiciones económicas",
+    a: "A conversar en entrevista",
+    detail: "Según paquete integral y alcance del rol.",
   },
 ];
 

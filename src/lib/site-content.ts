@@ -9,18 +9,18 @@ export const SITE_CONTEXT: string = `
 # §01 · BIENVENIDA
 
 Meta:
-- Fecha: 12 mayo 2026
-- Posición: Gerente de Habilitación IA
-- Sede: Paseo de las Palmas, CDMX
-- Modalidad: Híbrida 3 oficina + 2 home office
+- Perfil: Estrategia y habilitación en IA
+- Base: Tlaxcala, MX
+- Movilidad: Disposición a cambio de residencia
+- Actualizado: 2026
 
-Cuerpo de la carta (mensaje de bienvenida + presentación, no dirigido a una persona específica — funciona para cualquier lector: Andrea, el líder de la posición, u otros):
+Cuerpo de la carta (mensaje de bienvenida + presentación, no dirigido a una persona ni empresa específica — funciona para cualquier lector: reclutadores, líderes de área o posibles clientes):
 
 Bienvenido y gracias por dedicar tiempo a revisar mi perfil. Preparé esta pieza estructurada para que puedas hojearla en 90 segundos o leerla a fondo en diez minutos —según tu necesidad— y compartirla sin perder contexto.
 
 Soy Iván Sánchez Martínez, consultor en estrategia de IA e innovación con más de ocho años diseñando programas de habilitación corporativa. Actualmente lidero el desarrollo del primer Estándar Nacional de Competencia en IA para MiPyMES en México (FUNDES + Google.org ante CONOCER) y acompaño a organizaciones desde Innogyzer en diagnóstico, definición de casos de uso y diseño de procesos asistidos por IA.
 
-En las siguientes secciones está mi respuesta al filtro de Atracción de Talento de Laboratorios Silanes: validación de indispensables, las tres preguntas de experiencia, evidencia con enlaces vivos y el encaje narrativo con la posición. Si tienes prisa, §02 Indispensables y §04 Evidencia cubren el filtro estricto; §05 Encaje contextualiza por qué este rol embona con el trabajo que ya hago; y en §07 Asistente hay un modelo IA que puede ampliar cualquier punto en vivo.
+En las siguientes secciones encontrarás mis datos clave, respuestas a tres preguntas frecuentes sobre mi experiencia, evidencia con enlaces vivos y lo que puedo aportar a tu organización. Si tienes prisa, §02 Datos clave y §04 Evidencia cubren lo esencial; §05 Aporte explica cómo mi trabajo actual se traduce en habilitación de IA para tu equipo; y en §07 Asistente hay un modelo IA que puede ampliar cualquier punto en vivo.
 
 Firma: Iván Sánchez Martínez.
 
@@ -41,23 +41,21 @@ EDUCACIÓN:
 - 2010–2015 · B.Eng. Computer Engineering · UA Tlaxcala · honores.
 
 
-# §02 · VALIDACIÓN DE INDISPENSABLES (las 6 respuestas exactas)
+# §02 · DATOS CLAVE
 
 1. Ciudad / zona de residencia actual → Tlaxcala Centro (Estado de Tlaxcala, México).
-2. Modalidad híbrida 3 oficina + 2 home office en Paseo de las Palmas CDMX → De acuerdo, conforme con la modalidad y presencialidad indicada.
-3. ¿Necesitaría realizar un cambio de residencia? → Sí, con disposición a realizarlo. Cambio a CDMX previsto al confirmarse el ingreso.
-4. ¿Es o ha sido parte de Laboratorios Silanes? → No. No he formado parte de Laboratorios Silanes con anterioridad.
-5. Ingreso mensual bruto actual → $85,000 MXN (ingreso bruto vigente).
-6. Expectativa de ingreso mensual bruto en caso de cambio → $85,000 MXN, a tratar. Abierto a conversación según paquete integral y alcance del rol.
+2. Modalidad de trabajo → Abierto a esquemas híbridos, con presencialidad en oficina según lo requiera la posición.
+3. ¿Disposición a cambio de residencia? → Sí, con disposición a realizarlo (por ejemplo, a CDMX al confirmarse el ingreso).
+4. Condiciones económicas → A conversar en entrevista, según paquete integral y alcance del rol.
 
 
-# §03 · EXPERIENCIA PROFESIONAL (las 3 preguntas del brief)
+# §03 · EXPERIENCIA PROFESIONAL (3 preguntas frecuentes)
 
 ## Pregunta 01
-Pregunta de Andrea: ¿Cuentas con 5 años o más de experiencia en roles operativos, procesos, mejora continua o implementación de proyectos en empresas medianas o grandes? Comparte brevemente en qué tipo de proyectos y cómo has utilizado herramientas de Inteligencia Artificial en ellos.
+Pregunta: ¿Cuentas con 5 años o más de experiencia en roles operativos, procesos, mejora continua o implementación de proyectos en empresas medianas o grandes? Comparte brevemente en qué tipo de proyectos y cómo has utilizado herramientas de Inteligencia Artificial en ellos.
 
 Respuesta de Iván:
-Sí. Suma más de 6 años trabajando en procesos de innovación, experimentación y adopción tecnológica en empresas medianas y grandes de Latinoamérica.
+Sí. Suma más de 8 años trabajando en procesos de innovación, experimentación y adopción tecnológica en organizaciones de Latinoamérica, cinco de ellos en Grupo Rotoplas (empresa grande con alcance regional).
 
 En Grupo Rotoplas (2019–2024), el equipo del que formó parte diseñó e implementó el macroproceso corporativo de innovación a nivel regional. Coordinaron en promedio 150 experimentos anuales para validar productos y modelos de negocio, y formaron a más de 1,500 colaboradores en metodologías de innovación. Conforme las herramientas de IA fueron madurando, las incorporaron progresivamente como apoyo en análisis de tendencias, síntesis de hallazgos de experimentación y preparación de recomendaciones para la dirección.
 
@@ -66,7 +64,7 @@ Actualmente combina dos frentes complementarios:
 - Es responsable del desarrollo del primer Estándar de Competencia en Inteligencia Artificial para MiPyMES en México, en colaboración con Google.org. Este estándar definirá los criterios oficiales con los que se certificará a evaluadores y colaboradores en uso aplicado de IA a nivel nacional, ante CONOCER–SEP.
 
 ## Pregunta 02
-Pregunta de Andrea: Describe tu experiencia utilizando plataformas de IA generativa como ChatGPT, Copilot, Claude o Gemini. ¿Qué tipo de instrucciones, comportamientos o configuraciones has desarrollado para casos de uso específicos?
+Pregunta: Describe tu experiencia utilizando plataformas de IA generativa como ChatGPT, Copilot, Claude o Gemini. ¿Qué tipo de instrucciones, comportamientos o configuraciones has desarrollado para casos de uso específicos?
 
 Respuesta de Iván:
 Uso intensivo y cotidiano de Claude, ChatGPT, Gemini y Copilot, tanto en sus interfaces de chat como vía API. Ha capacitado a más de 500 personas en uso aplicado de IA generativa a través de los cuatro ecosistemas (OpenAI, Anthropic, Google y Microsoft), en contextos corporativos y académicos.
@@ -81,7 +79,7 @@ Complementariamente, maneja herramientas de automatización y orquestación para
 Cita textual (pull-quote): "Mi enfoque al configurar instrucciones: definir rol, contexto, criterios de éxito y formato de salida; restringir comportamiento donde la ambigüedad genera respuestas poco útiles; e iterar contra casos reales para calibrar."
 
 ## Pregunta 03
-Pregunta de Andrea: Comparte un ejemplo de un Custom GPT, Gem, agente o flujo automatizado que hayas construido directamente. Asimismo, menciona algún caso donde hayas realizado mapeo y documentación de procesos (diagramas, manuales o paso a paso) para facilitar su uso por otros equipos.
+Pregunta: Comparte un ejemplo de un Custom GPT, Gem, agente o flujo automatizado que hayas construido directamente. Asimismo, menciona algún caso donde hayas realizado mapeo y documentación de procesos (diagramas, manuales o paso a paso) para facilitar su uso por otros equipos.
 
 Respuesta de Iván:
 Ha construido Custom GPTs, Gems en Gemini, agentes y flujos automatizados que utiliza activamente en su práctica de consultoría. En §04 Evidencia están las ligas públicas a cada uno (interactuables directamente).
@@ -95,13 +93,13 @@ Mapeo y documentación de procesos: En Rotoplas, el equipo documentó el macropr
 
 Nota de la sección: Todo el material es público y abrible al momento (cada tarjeta lleva al recurso real). Para profundizar en cualquier punto, el §07 Asistente está entrenado con CV, LinkedIn y esta landing; también está disponible agendar una demo en vivo de The Leap o Sherlock con Iván directamente (datos de contacto en la sidebar izquierda y en §06).
 
-Las tarjetas del §04 están agrupadas en tres bloques: Asistente para esta vacante (1), Plataformas propias (2) y Custom GPTs públicos (5).
+Las tarjetas del §04 están agrupadas en tres bloques: Asistente sobre mi perfil (1), Plataformas propias (2) y Custom GPTs públicos (5).
 
-Asistente para esta vacante (1):
+Asistente sobre mi perfil (1):
 
 0. Pregunta · respuesta sobre Iván — navega a §07 (aquí mismo).
    Tipo: Asistente · IA en vivo.
-   Modelo entrenado con CV, LinkedIn y esta landing. Responde en vivo sobre experiencia, indispensables del filtro, evidencia y encaje con la vacante. Construido específicamente para este proceso de Atracción de Talento Silanes.
+   Modelo entrenado con CV, LinkedIn y esta landing. Responde en vivo sobre experiencia, datos clave, evidencia y aporte. Construido para acompañar esta pieza.
 
 Plataformas propias (2):
 
@@ -110,8 +108,8 @@ Plataformas propias (2):
    Orquestación de flujos de agentes para procesos de innovación. Producto vivo de Innogyzer con video demo en sitio. Iván es desarrollador.
 
 2. Sherlock — https://www.ask-sherlock.app
-   Tipo: Plataforma · Fundador.
-   Usuarios sintéticos para estudio de mercado preliminar en desarrollo de nuevos productos. Iván es fundador y desarrollador.
+   Tipo: Plataforma · Cofundador.
+   Usuarios sintéticos para estudio de mercado preliminar en desarrollo de nuevos productos. Iván es cofundador y desarrollador.
 
 Custom GPTs públicos (5) — todos en chatgpt.com/g/:
 
@@ -131,21 +129,21 @@ Custom GPTs públicos (5) — todos en chatgpt.com/g/:
    Construcción de arquetipos y personas con base en investigación cualitativa para equipos de producto.
 
 
-# §05 · POR QUÉ ESTE ROL ENCAJA CON SU TRABAJO ACTUAL
+# §05 · QUÉ PUEDE APORTAR
 
-El encaje se presenta en tres ángulos concretos, cada uno con su "puente" explícito a lo que el rol en Silanes demanda.
+El aporte se presenta en tres ángulos concretos, cada uno con su "puente" explícito a lo que una organización necesita de un rol de habilitación en IA.
 
 ## //01 · enablement — Habilitación que escala más allá del que la diseña.
 En Rotoplas, el macroproceso corporativo de innovación que el equipo de Iván documentó —criterios de intake, herramientas, KPIs, manuales operativos— fue adoptado por equipos en distintos países de LATAM sin su presencia. Formaron a más de 1,500 colaboradores. Habilitación no es enseñar herramientas; es codificar capacidades para que los equipos las operen autónomamente.
-Bridge a Silanes: un sistema de habilitación en IA que no dependa de una sola persona para sostenerse, y que pueda replicarse por unidad de negocio.
+Bridge a tu organización: un sistema de habilitación en IA que no dependa de una sola persona para sostenerse, y que pueda replicarse por unidad de negocio.
 
 ## //02 · standards — Definiendo el primer Estándar Nacional de Competencia en IA en México.
 Como Líder de Diseño Normativo en FUNDES (Google.org + CONOCER-SEP), construye los criterios oficiales con los que se certificará el uso aplicado de IA en MiPyMES: mapeo funcional, criterios de desempeño, bancos de reactivos y validación institucional ante el Sistema Nacional de Competencias.
-Bridge a Silanes: definir qué significa "IA bien usada" en su contexto regulado (farma), qué indicadores miden adopción, y qué evidencia certifica competencia por función.
+Bridge a tu organización: definir qué significa "IA bien usada" en su contexto (incluidos sectores regulados), qué indicadores miden adopción, y qué evidencia certifica competencia por función.
 
 ## //03 · stack — Claude, ChatGPT, Gemini y Copilot: uso diario, chat y API.
 Más de 500 personas capacitadas en uso aplicado a través de los cuatro ecosistemas (OpenAI, Anthropic, Google, Microsoft). System prompts especializados, bibliotecas de prompts reutilizables, agentes y dos plataformas propias (The Leap, Sherlock).
-Bridge a Silanes: visión normativa + ejecución técnica con las cuatro plataformas + change management cierran el círculo de un rol de habilitación.
+Bridge a tu organización: visión normativa + ejecución técnica con las cuatro plataformas + change management cierran el círculo de un rol de habilitación.
 
 Cifras destacadas en la landing (sección stats):
 - 1,500+ colaboradores formados en Rotoplas.
@@ -158,7 +156,7 @@ Cifras destacadas en la landing (sección stats):
 
 Video de presentación:
 - Duración: 2 minutos.
-- El video está embebido vía YouTube en §06 Contacto (https://www.youtube.com/embed/i3JsnDymEiM) — Andrea puede verlo inline en la landing.
+- El video está embebido vía YouTube en §06 Contacto (https://www.youtube.com/embed/i3JsnDymEiM) — se puede ver inline en la landing.
 - Debajo del reproductor hay un botón "Abrir en Drive" (liga pública de Google Drive: https://drive.google.com/file/d/1UkJV3Y9SF2iGmD6lHTjwQI6EzDasogjI/view?usp=sharing) como alternativa con acceso al archivo original.
 - Si te preguntan dónde ver el video, responde: "Está embebido en §06 Contacto · Siguiente paso vía YouTube, con un botón para abrirlo en Drive como alternativa."
 

@@ -16,9 +16,10 @@ const QA_LIST: QA[] = [
     body: () => (
       <>
         <p>
-          <strong>Sí.</strong> Sumo más de 6 años trabajando en procesos de
-          innovación, experimentación y adopción tecnológica en empresas medianas
-          y grandes de Latinoamérica.
+          <strong>Sí.</strong> Sumo más de 8 años trabajando en procesos de
+          innovación, experimentación y adopción tecnológica en organizaciones
+          de Latinoamérica, cinco de ellos en Grupo Rotoplas (empresa grande con
+          alcance regional).
         </p>
         <p>
           En <strong>Grupo Rotoplas (2019–2024)</strong>, el equipo del que formé
@@ -133,7 +134,7 @@ export function Experience() {
 
   return (
     <section className={styles.wrap}>
-      <div className={styles.tabs} role="tablist" aria-label="Preguntas del brief">
+      <div className={styles.tabs} role="tablist" aria-label="Preguntas frecuentes">
         {QA_LIST.map((qa, i) => {
           const isOpen = i === open;
           return (

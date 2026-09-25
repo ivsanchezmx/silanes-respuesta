@@ -18,7 +18,7 @@ const ANGLES: Angle[] = [
     body:
       "En Rotoplas, el macroproceso corporativo de innovación que documentamos —criterios de intake, herramientas, KPIs, manuales operativos— fue adoptado por equipos en distintos países de LATAM sin mi presencia. Formamos a más de 1,500 colaboradores. Habilitación no es enseñar herramientas; es codificar capacidades para que los equipos las operen autónomamente.",
     bridge:
-      "Aplicado a Silanes: un sistema de habilitación en IA que no dependa de una sola persona para sostenerse, y que pueda replicarse por unidad de negocio.",
+      "Aplicado a tu organización: un sistema de habilitación en IA que no dependa de una sola persona para sostenerse, y que pueda replicarse por unidad de negocio.",
   },
   {
     num: "//02",
@@ -28,7 +28,7 @@ const ANGLES: Angle[] = [
     body:
       "Como Líder de Diseño Normativo en FUNDES (Google.org + CONOCER-SEP), construyo los criterios oficiales con los que se certificará el uso aplicado de IA en MiPyMES: mapeo funcional, criterios de desempeño, bancos de reactivos y validación institucional ante el Sistema Nacional de Competencias.",
     bridge:
-      "Aplicado a Silanes: definir qué significa \"IA bien usada\" en su contexto regulado, qué indicadores miden adopción, y qué evidencia certifica competencia por función.",
+      "Aplicado a tu organización: definir qué significa \"IA bien usada\" en tu contexto (incluidos sectores regulados), qué indicadores miden adopción, y qué evidencia certifica competencia por función.",
   },
   {
     num: "//03",
@@ -38,7 +38,7 @@ const ANGLES: Angle[] = [
     body:
       "Más de 500 personas capacitadas en uso aplicado de IA generativa a través de los cuatro ecosistemas (OpenAI, Anthropic, Google, Microsoft). System prompts especializados, bibliotecas de prompts reutilizables, agentes y dos plataformas propias (The Leap, Sherlock) que orquestan flujos end-to-end.",
     bridge:
-      "Aplicado a Silanes: visión normativa + ejecución técnica con las cuatro plataformas + change management cierran el círculo de un rol de habilitación.",
+      "Aplicado a tu organización: visión normativa + ejecución técnica con las cuatro plataformas + change management cierran el círculo de un rol de habilitación.",
   },
 ];
 

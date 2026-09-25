@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Respuesta de Iván Sánchez Martínez al filtro de Laboratorios Silanes · Gerente de Habilitación IA",
+  "description": "Perfil profesional de Iván Sánchez Martínez · Estrategia y habilitación en IA",
   "scripts": {
     "extract-docs": "node scripts/extract-docs.mjs",
     "predev": "node scripts/extract-docs.mjs",

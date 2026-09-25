@@ -13,21 +13,21 @@ export function Topbar() {
             <span className={styles.brandSep} aria-hidden>
               /
             </span>
-            <span className={styles.brandPath}>respuesta · silanes · v1</span>
+            <span className={styles.brandPath}>perfil · v2</span>
           </span>
         </div>
         <div className={styles.center}>
           <span className={styles.status}>
             <span className={styles.statusDot} aria-hidden />
             <span className={styles.statusLabel}>LIVE</span>
-            <span className={styles.statusValue}>· 12 may 2026</span>
+            <span className={styles.statusValue}>· 2026</span>
           </span>
         </div>
         <div className={styles.right}>
-          <span className={styles.meta}>vacante</span>
+          <span className={styles.meta}>perfil</span>
           <span className={styles.metaValue}>
             <span className={styles.bracket}>[</span>
-            gerente · habilitación IA
+            estrategia · habilitación IA
             <span className={styles.bracket}>]</span>
           </span>
         </div>

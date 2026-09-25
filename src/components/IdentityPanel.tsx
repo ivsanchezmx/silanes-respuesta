@@ -36,12 +36,12 @@ export function IdentityPanel({ active, onSelect }: Props) {
             <p className={styles.role}>
               <span className={styles.roleLabel}>role</span>
               <span className={styles.roleValue}>
-                gerente · habilitación IA
+                estrategia · habilitación IA
               </span>
             </p>
             <p className={styles.role}>
               <span className={styles.roleLabel}>track</span>
-              <span className={styles.roleValue}>silanes / mayo 2026</span>
+              <span className={styles.roleValue}>IA · innovación / 2026</span>
             </p>
           </div>
         </div>
@@ -116,7 +116,7 @@ export function IdentityPanel({ active, onSelect }: Props) {
             </a>
           </div>
           <a
-            href="/docs/Ivan_Sanchez_CV_2026_v2.pdf"
+            href="/docs/Ivan_Sanchez_CV_2026_JUN.pdf"
             download
             className={styles.cvButton}
           >

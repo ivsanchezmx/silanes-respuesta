@@ -20,13 +20,13 @@ interface EvidenceGroup {
 
 const GROUPS: EvidenceGroup[] = [
   {
-    label: "Asistente para esta vacante",
+    label: "Asistente sobre mi perfil",
     items: [
       {
         kind: "Asistente · IA en vivo",
         title: "Pregunta · respuesta sobre Iván",
         description:
-          "Modelo entrenado con CV, LinkedIn y esta landing. Responde en vivo sobre experiencia, indispensables del filtro, evidencia y encaje con la vacante. Construido para este proceso.",
+          "Modelo entrenado con CV, LinkedIn y esta landing. Responde en vivo sobre experiencia, datos clave, evidencia y aporte. Construido para acompañar esta pieza.",
         href: "#assistant",
         host: "§07 · aquí mismo",
         internalTarget: "assistant",
@@ -45,10 +45,10 @@ const GROUPS: EvidenceGroup[] = [
         host: "theleap.innogyzer.com",
       },
       {
-        kind: "Plataforma · Fundador",
+        kind: "Plataforma · Cofundador",
         title: "Sherlock",
         description:
-          "Usuarios sintéticos para estudio de mercado preliminar en desarrollo de nuevos productos. Fundador y desarrollador.",
+          "Usuarios sintéticos para estudio de mercado preliminar en desarrollo de nuevos productos. Cofundador y desarrollador.",
         href: "https://www.ask-sherlock.app",
         host: "ask-sherlock.app",
       },
