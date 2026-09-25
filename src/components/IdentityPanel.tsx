@@ -128,7 +128,7 @@ export function IdentityPanel({ active, onSelect }: Props) {
         </div>
 
         <div className={styles.footMark}>
-          <span className={styles.footMeta}>tlaxcala · mx</span>
+          <span className={styles.footMeta}>tlax · pue · cdmx</span>
           <span className={styles.footHint}>
             <kbd className={styles.kbd}>←</kbd>
             <kbd className={styles.kbd}>→</kbd>

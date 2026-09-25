@@ -10,7 +10,7 @@ export const SITE_CONTEXT: string = `
 
 Meta:
 - Perfil: Estrategia y habilitación en IA
-- Base: Tlaxcala, MX
+- Base: Tlaxcala · Puebla · CDMX (abierto a cambiar de residencia)
 - Movilidad: Disposición a cambio de residencia
 - Actualizado: 2026
 
@@ -43,9 +43,9 @@ EDUCACIÓN:
 
 # §02 · DATOS CLAVE
 
-1. Ciudad / zona de residencia actual → Tlaxcala Centro (Estado de Tlaxcala, México).
+1. Ciudad / zona de residencia actual → Tlaxcala, Puebla o CDMX (zona centro de México), abierto a cambiar de residencia.
 2. Modalidad de trabajo → Abierto a esquemas híbridos, con presencialidad en oficina según lo requiera la posición.
-3. ¿Disposición a cambio de residencia? → Sí, con disposición a realizarlo (por ejemplo, a CDMX al confirmarse el ingreso).
+3. ¿Disposición a cambio de residencia? → Sí, con disposición a realizarlo (a la ciudad que requiera la posición, al confirmarse el ingreso).
 4. Condiciones económicas → A conversar en entrevista, según paquete integral y alcance del rol.
 
 
@@ -165,7 +165,7 @@ Datos directos (también visibles en la sidebar):
 - Correo alterno: computoisz@gmail.com
 - Teléfono: +52 246 127 1067
 - LinkedIn: linkedin.com/in/ivsanchezm
-- Residencia: Tlaxcala, MX (con disposición a CDMX)
+- Residencia: Tlaxcala · Puebla · CDMX (abierto a cambiar de residencia)
 
 Llamado a la acción / siguiente paso:
 - Disponible para agendar una demo en vivo de The Leap o Sherlock.

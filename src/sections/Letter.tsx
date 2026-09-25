@@ -2,7 +2,7 @@ import styles from "./Letter.module.css";
 
 const META = [
   { label: "Perfil", value: "Estrategia y habilitación en IA" },
-  { label: "Base", value: "Tlaxcala · MX" },
+  { label: "Base", value: "Tlaxcala · Puebla · CDMX" },
   { label: "Movilidad", value: "Disposición a cambio de residencia" },
   { label: "Actualizado", value: "2026" },
 ];

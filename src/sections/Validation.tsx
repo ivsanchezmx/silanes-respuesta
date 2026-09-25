@@ -10,8 +10,8 @@ interface Item {
 const ITEMS: Item[] = [
   {
     q: "Ciudad / zona de residencia actual",
-    a: "Tlaxcala Centro",
-    detail: "Estado de Tlaxcala, México",
+    a: "Tlaxcala · Puebla · CDMX",
+    detail: "Zona centro de México, abierto a cambiar de residencia.",
   },
   {
     q: "Modalidad de trabajo",
@@ -22,7 +22,7 @@ const ITEMS: Item[] = [
   {
     q: "¿Disposición a cambio de residencia?",
     a: "Sí, con disposición a realizarlo",
-    detail: "Por ejemplo, a CDMX al confirmarse el ingreso.",
+    detail: "A la ciudad que requiera la posición, al confirmarse el ingreso.",
   },
   {
     q: "Condiciones económicas",

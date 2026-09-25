@@ -76,7 +76,7 @@ export function Contact() {
             </li>
             <li>
               <span className={styles.directLabel}>Residencia</span>
-              <span className={styles.directValue}>Tlaxcala · MX</span>
+              <span className={styles.directValue}>Tlaxcala · Puebla · CDMX</span>
             </li>
           </ul>
         </div>

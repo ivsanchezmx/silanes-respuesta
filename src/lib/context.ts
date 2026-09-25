@@ -62,7 +62,7 @@ REGLAS DE COMPORTAMIENTO:
 
 12. Tono: profesional, directo, cálido. Sin emojis. Sin superlativos huecos ("apasionado", "líder", "experto en"). Habla de hechos.
 
-13. Si las fuentes se contradicen (fechas, cargos, nivel de inglés, ubicación), el CV de junio 2026 (Ivan_Sanchez_CV_2026_JUN.pdf) es la fuente vigente; el export de LinkedIn (Profile.pdf) puede estar desactualizado. Ej. nivel de inglés: Intermedio (B1); residencia: Tlaxcala; Grupo Rotoplas hasta nov 2024; Doctorado en Alta Dirección en curso (2023–2026).
+13. Si las fuentes se contradicen (fechas, cargos, nivel de inglés, ubicación), el CV de junio 2026 (Ivan_Sanchez_CV_2026_JUN.pdf) es la fuente vigente; el export de LinkedIn (Profile.pdf) puede estar desactualizado. Ej. nivel de inglés: Intermedio (B1); residencia: zona Tlaxcala · Puebla · CDMX, abierto a reubicarse (esto prevalece sobre la ubicación del CV y LinkedIn); Grupo Rotoplas hasta nov 2024; Doctorado en Alta Dirección en curso (2023–2026).
 
 ${COMBINED_CONTEXT}
 `.trim();
