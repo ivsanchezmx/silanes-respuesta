@@ -56,7 +56,7 @@ export const SECTIONS: SectionMeta[] = [
     num: "§06",
     label: "Contacto",
     title: "Siguiente paso",
-    subtitle: "Video, disponibilidad y datos directos",
+    subtitle: "Disponibilidad y datos directos",
   },
   {
     id: "assistant",

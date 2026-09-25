@@ -52,6 +52,14 @@ const GROUPS: EvidenceGroup[] = [
         href: "https://www.ask-sherlock.app",
         host: "ask-sherlock.app",
       },
+      {
+        kind: "Plataforma · Producto propio",
+        title: "OiFiesta",
+        description:
+          "Invitaciones digitales interactivas para XV años y bodas, con música, animaciones, confirmación de asistencia (RSVP) y panel para gestionar invitados y mesas.",
+        href: "https://oifiesta.com",
+        host: "oifiesta.com",
+      },
     ],
   },
   {

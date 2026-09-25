@@ -93,7 +93,7 @@ Mapeo y documentación de procesos: En Rotoplas, el equipo documentó el macropr
 
 Nota de la sección: Todo el material es público y abrible al momento (cada tarjeta lleva al recurso real). Para profundizar en cualquier punto, el §07 Asistente está entrenado con CV, LinkedIn y esta landing; también está disponible agendar una demo en vivo de The Leap o Sherlock con Iván directamente (datos de contacto en la sidebar izquierda y en §06).
 
-Las tarjetas del §04 están agrupadas en tres bloques: Asistente sobre mi perfil (1), Plataformas propias (2) y Custom GPTs públicos (5).
+Las tarjetas del §04 están agrupadas en tres bloques: Asistente sobre mi perfil (1), Plataformas propias (3) y Custom GPTs públicos (5).
 
 Asistente sobre mi perfil (1):
 
@@ -101,7 +101,7 @@ Asistente sobre mi perfil (1):
    Tipo: Asistente · IA en vivo.
    Modelo entrenado con CV, LinkedIn y esta landing. Responde en vivo sobre experiencia, datos clave, evidencia y aporte. Construido para acompañar esta pieza.
 
-Plataformas propias (2):
+Plataformas propias (3):
 
 1. The Leap — https://theleap.innogyzer.com
    Tipo: Plataforma · Orquestación.
@@ -110,6 +110,10 @@ Plataformas propias (2):
 2. Sherlock — https://www.ask-sherlock.app
    Tipo: Plataforma · Cofundador.
    Usuarios sintéticos para estudio de mercado preliminar en desarrollo de nuevos productos. Iván es cofundador y desarrollador.
+
+3. OiFiesta — https://oifiesta.com
+   Tipo: Plataforma · Producto propio.
+   Invitaciones digitales interactivas para XV años y bodas, con música, animaciones, confirmación de asistencia (RSVP) y panel para gestionar invitados y mesas. Producto digital propio de Iván (no es una plataforma de agentes de IA).
 
 Custom GPTs públicos (5) — todos en chatgpt.com/g/:
 
@@ -152,13 +156,9 @@ Cifras destacadas en la landing (sección stats):
 - $20M+ MXN en inversión optimizada o evitada.
 
 
-# §06 · SIGUIENTE PASO (video, contacto, CTA)
+# §06 · SIGUIENTE PASO (contacto, CTA)
 
-Video de presentación:
-- Duración: 2 minutos.
-- El video está embebido vía YouTube en §06 Contacto (https://www.youtube.com/embed/i3JsnDymEiM) — se puede ver inline en la landing.
-- Debajo del reproductor hay un botón "Abrir en Drive" (liga pública de Google Drive: https://drive.google.com/file/d/1UkJV3Y9SF2iGmD6lHTjwQI6EzDasogjI/view?usp=sharing) como alternativa con acceso al archivo original.
-- Si te preguntan dónde ver el video, responde: "Está embebido en §06 Contacto · Siguiente paso vía YouTube, con un botón para abrirlo en Drive como alternativa."
+No hay video de presentación en esta pieza. Si te preguntan por uno, sugiere contactar a Iván directamente.
 
 Datos directos (también visibles en la sidebar):
 - Correo (principal): ivsanchezmx@gmail.com

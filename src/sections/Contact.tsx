@@ -1,47 +1,9 @@
 import styles from "./Contact.module.css";
 
-const VIDEO_YT_EMBED = "https://www.youtube.com/embed/i3JsnDymEiM";
-const VIDEO_DRIVE_URL =
-  "https://drive.google.com/file/d/1UkJV3Y9SF2iGmD6lHTjwQI6EzDasogjI/view?usp=sharing";
-
 export function Contact() {
   return (
     <section className={styles.wrap}>
       <div className={styles.grid}>
-        <div className={styles.videoCard}>
-          <div className="eyebrow">Video de presentación</div>
-          <h3 className={styles.videoTitle}>
-            2 minutos de <em>presentación</em>.
-          </h3>
-
-          <figure className={styles.videoPlayer}>
-            <iframe
-              src={VIDEO_YT_EMBED}
-              title="Iván Sánchez · video de presentación"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerPolicy="strict-origin-when-cross-origin"
-              allowFullScreen
-              className={styles.videoEl}
-            />
-            <figcaption className={styles.videoCaption}>
-              <span className={styles.videoCaptionDot} aria-hidden />
-              Iván Sánchez · video de presentación · 2026
-            </figcaption>
-          </figure>
-
-          <div className={styles.videoActions}>
-            <a
-              href={VIDEO_DRIVE_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={styles.videoBtn}
-            >
-              <span>Abrir en Drive</span>
-              <span className={styles.videoBtnArrow} aria-hidden>↗</span>
-            </a>
-          </div>
-        </div>
-
         <div className={styles.side}>
           <div className="eyebrow">Datos directos</div>
           <ul className={styles.directList}>
