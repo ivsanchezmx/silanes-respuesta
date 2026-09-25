@@ -4,9 +4,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Single-page React + Vite + TypeScript piece — Iván Sánchez Martínez's general professional profile (AI strategy & enablement), usable for any hiring process or client — originally built as a response to Laboratorios Silanes, now company-agnostic. Keep copy free of any specific company/vacancy. **Not a scroll landing**: it is structured as a 7-tab interactive app with persistent sidebar, not as scroll. The shipped artifact is the dist bundle deployed somewhere private (`robots: noindex,nofollow`).
+Single-page React + Vite + TypeScript piece — Iván Sánchez Martínez's general professional profile (AI strategy & enablement), usable for any hiring process or client. Keep copy free of any specific company/vacancy. **Not a scroll landing**: it is structured as a 7-tab interactive app with persistent sidebar, not as scroll. The shipped artifact is the dist bundle deployed somewhere private (`robots: noindex,nofollow`).
 
-There is a `index.legacy.html` at the repo root — an older standalone HTML version. The live piece is the React app under `src/`.
 
 ## Commands
 
