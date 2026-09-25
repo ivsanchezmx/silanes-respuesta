@@ -14,7 +14,7 @@ export function Assistant() {
         </p>
         <div className={styles.metaRow}>
           <span className={styles.metaTag}>// modelo</span>
-          <span className={styles.metaValue}>gemini-2.5-flash</span>
+          <span className={styles.metaValue}>gemini-3.8-flash</span>
           <span className={styles.metaTag}>// idioma</span>
           <span className={styles.metaValue}>es-MX</span>
         </div>

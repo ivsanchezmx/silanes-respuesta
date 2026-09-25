@@ -228,7 +228,7 @@ export function Chat() {
         <div className={styles.headerLeft}>
           <span className={styles.statusDot} aria-hidden />
           <span className={styles.headerLabel}>asistente.ivan</span>
-          <span className={styles.headerMeta}>· gemini-2.5-flash</span>
+          <span className={styles.headerMeta}>· gemini-3.8-flash</span>
         </div>
         <button
           type="button"
